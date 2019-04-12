@@ -13,6 +13,8 @@
 
 ## **COINTELEGRAPH**
 
+[![Para más información visitar cointelegraph.com](https://www.google.com/search?q=cointelegraph&rlz=1C1NHXL_esCL717CL717&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjv2bfS6cnhAhU0LLkGHZYbAdoQ_AUIDygC&biw=1366&bih=657#imgrc=XXnMNNWSVqsTdM:)](https://es.cointelegraph.com/)
+
 Cointelegraph, el futuro del dinero; es una página web de noticias relacionadas con tecnología Blockchain, Criptoactivos y tendencias emergentes de tecnología financiera, artículos de opinión de expertos en la materia, análisis de precios, conceptos, etc. 
 Esta página web también tiene disponible información relevante sobre las principales criptomonedas transadas en tiempo real gracias a un apartado de cotización en bolsa que puede ser consultado y monitoreado por los usuarios, además de gráficos de evolución de precios, volumen en circulación, etc. 
   >*“Con los avances tecnológicos que se están produciendo en campos como  IA, la RV, la nanotecnología, la informática cuántica y un número cada vez mayor de empresas, empresarios y consumidores que adoptan la tecnología Blockchain en la vida cotidiana, nuestro objetivo es informar, educar y compartir información valiosa con nuestros lectores”.*
