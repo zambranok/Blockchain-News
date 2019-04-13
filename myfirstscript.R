@@ -99,6 +99,23 @@ variableuno <- variableuno + variableuno
 variableuno <- variableuno^2+1
 
 
+funcionuno(3,5)
+
+#borramos todo y ejecutamos, respondio error in func
+
+funcionuno
+source("funciones.R")
+funcionuno(3,4)
+
+#funciones son parahacer tareas repetitivas yse mnostrara cada vez que se ejecute
+
+variableres <- Ftionresto(3,4,7)
+
+
+
+
+
+
 
 
 
